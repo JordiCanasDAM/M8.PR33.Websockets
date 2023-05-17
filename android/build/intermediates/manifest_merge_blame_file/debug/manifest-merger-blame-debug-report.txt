@@ -1,0 +1,68 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.jordicanas.animacions"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="14"
+8-->C:\Users\Jordi\Desktop\M08_Program. Multimedia\M08 UF3 Jocs per a dispositius mobils\M8 PR33 Websockets\AndroidCode\android\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\Jordi\Desktop\M08_Program. Multimedia\M08 UF3 Jocs per a dispositius mobils\M8 PR33 Websockets\AndroidCode\android\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Jordi\Desktop\M08_Program. Multimedia\M08 UF3 Jocs per a dispositius mobils\M8 PR33 Websockets\AndroidCode\android\AndroidManifest.xml:6:5-67
+11-->C:\Users\Jordi\Desktop\M08_Program. Multimedia\M08 UF3 Jocs per a dispositius mobils\M8 PR33 Websockets\AndroidCode\android\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\Jordi\Desktop\M08_Program. Multimedia\M08 UF3 Jocs per a dispositius mobils\M8 PR33 Websockets\AndroidCode\android\AndroidManifest.xml:7:5-79
+12-->C:\Users\Jordi\Desktop\M08_Program. Multimedia\M08 UF3 Jocs per a dispositius mobils\M8 PR33 Websockets\AndroidCode\android\AndroidManifest.xml:7:22-76
+13
+14    <uses-feature
+14-->C:\Users\Jordi\Desktop\M08_Program. Multimedia\M08 UF3 Jocs per a dispositius mobils\M8 PR33 Websockets\AndroidCode\android\AndroidManifest.xml:9:5-78
+15        android:glEsVersion="0x00020000"
+15-->C:\Users\Jordi\Desktop\M08_Program. Multimedia\M08 UF3 Jocs per a dispositius mobils\M8 PR33 Websockets\AndroidCode\android\AndroidManifest.xml:9:19-51
+16        android:required="true" />
+16-->C:\Users\Jordi\Desktop\M08_Program. Multimedia\M08 UF3 Jocs per a dispositius mobils\M8 PR33 Websockets\AndroidCode\android\AndroidManifest.xml:9:52-75
+17
+18    <application
+18-->C:\Users\Jordi\Desktop\M08_Program. Multimedia\M08 UF3 Jocs per a dispositius mobils\M8 PR33 Websockets\AndroidCode\android\AndroidManifest.xml:11:5-30:19
+19        android:allowBackup="true"
+19-->C:\Users\Jordi\Desktop\M08_Program. Multimedia\M08 UF3 Jocs per a dispositius mobils\M8 PR33 Websockets\AndroidCode\android\AndroidManifest.xml:12:9-35
+20        android:appCategory="game"
+20-->C:\Users\Jordi\Desktop\M08_Program. Multimedia\M08 UF3 Jocs per a dispositius mobils\M8 PR33 Websockets\AndroidCode\android\AndroidManifest.xml:16:9-35
+21        android:debuggable="true"
+22        android:fullBackupContent="true"
+22-->C:\Users\Jordi\Desktop\M08_Program. Multimedia\M08 UF3 Jocs per a dispositius mobils\M8 PR33 Websockets\AndroidCode\android\AndroidManifest.xml:13:9-41
+23        android:icon="@drawable/ic_launcher"
+23-->C:\Users\Jordi\Desktop\M08_Program. Multimedia\M08 UF3 Jocs per a dispositius mobils\M8 PR33 Websockets\AndroidCode\android\AndroidManifest.xml:14:9-45
+24        android:isGame="true"
+24-->C:\Users\Jordi\Desktop\M08_Program. Multimedia\M08 UF3 Jocs per a dispositius mobils\M8 PR33 Websockets\AndroidCode\android\AndroidManifest.xml:15:9-30
+25        android:label="@string/app_name"
+25-->C:\Users\Jordi\Desktop\M08_Program. Multimedia\M08 UF3 Jocs per a dispositius mobils\M8 PR33 Websockets\AndroidCode\android\AndroidManifest.xml:17:9-41
+26        android:testOnly="true" >
+27        <activity
+27-->C:\Users\Jordi\Desktop\M08_Program. Multimedia\M08 UF3 Jocs per a dispositius mobils\M8 PR33 Websockets\AndroidCode\android\AndroidManifest.xml:19:9-29:20
+28            android:name="com.jordicanas.animacions.AndroidLauncher"
+28-->C:\Users\Jordi\Desktop\M08_Program. Multimedia\M08 UF3 Jocs per a dispositius mobils\M8 PR33 Websockets\AndroidCode\android\AndroidManifest.xml:20:13-69
+29            android:configChanges="keyboard|keyboardHidden|navigation|orientation|screenSize|screenLayout"
+29-->C:\Users\Jordi\Desktop\M08_Program. Multimedia\M08 UF3 Jocs per a dispositius mobils\M8 PR33 Websockets\AndroidCode\android\AndroidManifest.xml:23:13-107
+30            android:exported="true"
+30-->C:\Users\Jordi\Desktop\M08_Program. Multimedia\M08 UF3 Jocs per a dispositius mobils\M8 PR33 Websockets\AndroidCode\android\AndroidManifest.xml:24:13-36
+31            android:label="@string/app_name"
+31-->C:\Users\Jordi\Desktop\M08_Program. Multimedia\M08 UF3 Jocs per a dispositius mobils\M8 PR33 Websockets\AndroidCode\android\AndroidManifest.xml:21:13-45
+32            android:screenOrientation="landscape" >
+32-->C:\Users\Jordi\Desktop\M08_Program. Multimedia\M08 UF3 Jocs per a dispositius mobils\M8 PR33 Websockets\AndroidCode\android\AndroidManifest.xml:22:13-50
+33            <intent-filter>
+33-->C:\Users\Jordi\Desktop\M08_Program. Multimedia\M08 UF3 Jocs per a dispositius mobils\M8 PR33 Websockets\AndroidCode\android\AndroidManifest.xml:25:13-28:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->C:\Users\Jordi\Desktop\M08_Program. Multimedia\M08 UF3 Jocs per a dispositius mobils\M8 PR33 Websockets\AndroidCode\android\AndroidManifest.xml:26:17-69
+34-->C:\Users\Jordi\Desktop\M08_Program. Multimedia\M08 UF3 Jocs per a dispositius mobils\M8 PR33 Websockets\AndroidCode\android\AndroidManifest.xml:26:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->C:\Users\Jordi\Desktop\M08_Program. Multimedia\M08 UF3 Jocs per a dispositius mobils\M8 PR33 Websockets\AndroidCode\android\AndroidManifest.xml:27:17-77
+36-->C:\Users\Jordi\Desktop\M08_Program. Multimedia\M08 UF3 Jocs per a dispositius mobils\M8 PR33 Websockets\AndroidCode\android\AndroidManifest.xml:27:27-74
+37            </intent-filter>
+38        </activity>
+39    </application>
+40
+41</manifest>

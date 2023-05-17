@@ -1,0 +1,8 @@
+com.jordicanas.animacions.android-pngs-0 C:\Users\Jordi\Desktop\M08_Program. Multimedia\M08 UF3 Jocs per a dispositius mobils\M8 PR33 Websockets\AndroidCode\android\build\generated\res\pngs\debug
+com.jordicanas.animacions.android-resValues-1 C:\Users\Jordi\Desktop\M08_Program. Multimedia\M08 UF3 Jocs per a dispositius mobils\M8 PR33 Websockets\AndroidCode\android\build\generated\res\resValues\debug
+com.jordicanas.animacions.android-rs-2 C:\Users\Jordi\Desktop\M08_Program. Multimedia\M08 UF3 Jocs per a dispositius mobils\M8 PR33 Websockets\AndroidCode\android\build\generated\res\rs\debug
+com.jordicanas.animacions.android-mergeDebugResources-3 C:\Users\Jordi\Desktop\M08_Program. Multimedia\M08 UF3 Jocs per a dispositius mobils\M8 PR33 Websockets\AndroidCode\android\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.jordicanas.animacions.android-mergeDebugResources-4 C:\Users\Jordi\Desktop\M08_Program. Multimedia\M08 UF3 Jocs per a dispositius mobils\M8 PR33 Websockets\AndroidCode\android\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.jordicanas.animacions.android-merged_res-5 C:\Users\Jordi\Desktop\M08_Program. Multimedia\M08 UF3 Jocs per a dispositius mobils\M8 PR33 Websockets\AndroidCode\android\build\intermediates\merged_res\debug
+com.jordicanas.animacions.android-android-6 C:\Users\Jordi\Desktop\M08_Program. Multimedia\M08 UF3 Jocs per a dispositius mobils\M8 PR33 Websockets\AndroidCode\android\res
+com.jordicanas.animacions.android-debug-7 C:\Users\Jordi\Desktop\M08_Program. Multimedia\M08 UF3 Jocs per a dispositius mobils\M8 PR33 Websockets\AndroidCode\android\src\debug\res
